@@ -9,7 +9,7 @@
 <b>Step 1: Create a Github account.
   <br>Step 2: Register at Hacktober fest-2020 using your github id.
   <br>Step 3: Fork this repo and start contributing.
-  <br> Step 4: Share with your friends and give a star.
-  <br>Step 4: Pull request.
+  <br>Step 4: Share with your friends and give a star.
+  <br>Step 5: Pull request.
   </b>
   
